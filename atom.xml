@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Sebastian Hexo</title>
+  <title>Sebastian Hexo Blog</title>
   
-  <subtitle>土豆王博客</subtitle>
+  <subtitle>土豆王的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
